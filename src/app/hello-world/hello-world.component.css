@@ -1,0 +1,7 @@
+.container {
+  background-color: #F9E79F; /* set the background color to a beautiful shade of yellow */
+  color: #154360; /* set the text color to a beautiful shade of blue */
+  padding: 20px; /* add some padding to the container */
+  text-align: center; /* center the text horizontally */
+  font-weight: bold; /* make the text bold */
+}

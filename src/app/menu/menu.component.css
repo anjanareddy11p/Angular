@@ -1,0 +1,46 @@
+/* Style for the navigation bar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  padding-left: 20px; /* add some padding to the left edge of the navbar */
+  padding-right: 20px; /* add some padding to the right edge of the navbar */
+}
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ffffff; /* change the font color to white */
+  margin-right:30px
+}
+.navbar-brand {
+  text-decoration: none;
+}
+.navbar-nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav-link {
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 30px;
+}
+.nav-link:hover {
+  color: yellow;
+}
+/* Style to change the background color of the navigation bar to black */
+.bg-dark {
+  background-color: #000000f4;
+}
+.navbar-brand:hover {
+  color: yellow;
+}
+

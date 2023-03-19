@@ -1,0 +1,15 @@
+body {
+  background-color: #F9E79F; /* set the background color to a beautiful shade of yellow */
+  color: #154360; /* set the text color to a beautiful shade of blue */
+  font-family: sans-serif; /* set a nice font family */
+}
+
+.app-menu {
+  background-color: #E74C3C; /* set the background color of the app-menu component to a beautiful shade of red */
+  color: white; /* set the text color of the app-menu component to white */
+  padding: 10px; /* add some padding to the app-menu component */
+}
+
+.router-outlet {
+  padding: 20px; /* add some padding to the router-outlet component */
+}
